@@ -17,6 +17,7 @@ To find the password check console log it shows as follows
 
 Create own user name and password
 Add following to application.properties 
+
 spring.security.user.name=admin
 spring.security.user.password=admin
 
